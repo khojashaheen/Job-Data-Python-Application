@@ -1,0 +1,7 @@
+[api]
+url='https://www.themuse.com/api/public/jobs?page=50'
+
+[aws]
+bucket='wcd-test-cicd'
+folder='input/'
+output_file_path='data/output_jobs.csv'
