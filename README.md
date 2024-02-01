@@ -3,7 +3,7 @@
 ## Overview
 1. This application retrieves job data from the following API web page  (https://www.themuse.com/developers/api/v2)
 2. It then processes by extracting relevant information, transforms the json data into a pandas dataframe, and stores it as csv file locally
-3. Finally, it uploads the csv data into Amazon S3 Bucket using Boto3 (AWS SDK for Python) and AWS credentials, stored in the .env file
+3. Finally, it uploads the csv data into Amazon S3 Bucket using Boto3 (AWS SDK for Python) and AWS credentials
 
 
 
