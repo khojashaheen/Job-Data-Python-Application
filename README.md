@@ -1,4 +1,4 @@
-# job-data-to-s3-python-application
+# Job-Data-Python-Application
 
 ## Overview
 1. This application retrieves job data from the following API web page  (https://www.themuse.com/developers/api/v2)
@@ -16,7 +16,7 @@
 
 ## Installation:
 ### 1. Clone the Repository:
-	Use git clone https://github.com/khojashaheen/job-data-to-s3-python-application to clone this repository to your local machine.
+	Use git clone https://github.com/khojashaheen/Job-Data-Python-Application to clone this repository to your local machine.
 
 ### 2. Complete Pre-requisites Steps
 
